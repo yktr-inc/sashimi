@@ -1,0 +1,11 @@
+{
+  "name": "sashimi",
+  "version": "1.0.0",
+  "description": "Mini react like framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HARANG",
+  "license": "ISC"
+}
